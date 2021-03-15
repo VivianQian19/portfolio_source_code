@@ -1,0 +1,40 @@
+title = "Tianyi Qian"
+baseURL = "https://vivianqian19.github.io" 
+languageCode = "en-us"
+theme = "ananke"
+#themesDir = "../.."
+
+DefaultContentLanguage = "en"
+SectionPagesMenu = "main"
+Paginate = 3 # this is set low for demonstrating with dummy content. Set to a higher number
+googleAnalytics = ""
+enableRobotsTXT = true
+canonifyURLs= true
+
+[sitemap]
+  changefreq = "monthly"
+  priority = 0.5
+  filename = "sitemap.xml"
+
+[params]
+  favicon = ""
+  site_logo = ""
+  description = "Tianyi's Portfolio V1"
+  facebook = ""
+  twitter = ""
+  instagram = ""
+  youtube = ""
+  github = "https://github.com/VivianQian19"
+  gitlab = ""
+  linkedin = "https://www.linkedin.com/in/tianyiqian/"
+  mastodon = ""
+  slack = ""
+  stackoverflow = ""
+  rss = ""
+  # choose a background color from any on this page: http://tachyons.io/docs/themes/skins/ and preface it with "bg-"
+  background_color_class = "bg-washed-blue"
+  featured_image = "static/images/movie_2.jpg"
+  recent_posts_number = 3
+
+  
+ 
